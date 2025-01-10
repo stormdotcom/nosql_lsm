@@ -1,4 +1,5 @@
  Database Components Documentation
+ 
 1️⃣ Write-Ahead Log (WAL)
 Purpose:
 
